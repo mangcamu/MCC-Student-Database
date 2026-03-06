@@ -33,6 +33,6 @@ Microsoft Access
 Relational database modeling
 Data normalization principles
 
-Author
+Author:
 Luyanda Ngcamu
 BSc Data Science (Computer Science and Statistics)
